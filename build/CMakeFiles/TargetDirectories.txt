@@ -1,0 +1,4 @@
+/Users/rohanbansal/Developer/2pc/build/CMakeFiles/coordinator.dir
+/Users/rohanbansal/Developer/2pc/build/CMakeFiles/server.dir
+/Users/rohanbansal/Developer/2pc/build/CMakeFiles/edit_cache.dir
+/Users/rohanbansal/Developer/2pc/build/CMakeFiles/rebuild_cache.dir
